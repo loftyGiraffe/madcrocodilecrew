@@ -1,0 +1,6 @@
+.background {
+    background-image: url('../src/madCrocodile.png');
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+}
